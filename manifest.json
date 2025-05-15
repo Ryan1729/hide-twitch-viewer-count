@@ -2,7 +2,7 @@
   "description": "Hides the viewer count on twitch.tv",
   "manifest_version": 2,
   "name": "Hide Twitch Viewer Count",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "homepage_url": "https://github.com/Ryan1729/hide-twitch-viewer-count",
   "icons": {
     "48": "icons/border-48.png"
